@@ -74,4 +74,4 @@ jobs:
           with:
             context: .
             push: true
-            tags: blazerrt86899/demo-java-app:${{ env.DATE }
+            tags: blazerrt86899/demo-java-app:${{ env.DATE }}
